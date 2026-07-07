@@ -163,8 +163,8 @@ public class Roshan {
 | Degree | Institution | Year | Score |
 |---|---|---|---|
 | BE Computer Science and Engineering | St. Joseph's College of Engineering | 2026 | 67% |
-| Class XII (MPC) | Alphonsa Matric Higher Secondary School | 2022 | 86% |
-| Class X | Alphonsa Matric Higher Secondary School | 2020 | 90% |
+| Class XII (MPC) | Alphonsa Matric Higher Secondary School | 2022 | 89% |
+| Class X | Alphonsa Matric Higher Secondary School | 2020 | 86% |
 
 </div>
 
