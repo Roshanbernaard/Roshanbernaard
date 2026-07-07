@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Roshan%20Bernaard%20A&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Java%20Developer%20%7C%20Full%20Stack%20%26%20Android%20Enthusiast&amp;descAlignY=62&amp;descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Roshan%20Bernaard%20A&amp;fontSize=42&amp;fontColor=fff&amp;animation=twinkling&amp;fontAlignY=32&amp;desc=Java%20Developer%20%7C%20Full%20Stack%20%26%20Android%20Enthusiast&amp;descAlignY=62&amp;descSize=16&amp;v=3" width="100%"/>
 <!-- ============================ TYPING HEADER ============================ -->
 <p align="center">
   <a href="https://github.com/Roshanbernaard">
